@@ -1,0 +1,16 @@
+{
+  "name" : "com.puffersoftware.statemachine",
+  "displayName" : "Puffer Software State Machine System",
+  "version" : "1.0.0",
+  "unity" : "2022.3",
+  "author" : "Puffer Software",
+  "description" : "This is an state machine system to make easy some usually using classes!",
+  "dependencies" : {
+    "com.puffersoftware.eventsystem" : "https://github.com/Puffer-Software/com.puffersoftware.eventsystem.git"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Puffer-Software/com.puffersoftware.statemachine.git"
+  }
+
+}

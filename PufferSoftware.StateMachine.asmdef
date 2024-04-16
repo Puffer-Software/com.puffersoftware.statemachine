@@ -1,0 +1,16 @@
+{
+    "name": "PufferSoftware.StateMachine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:813f5a0f2c2b8b042a6d74d6138793d2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
